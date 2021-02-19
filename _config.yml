@@ -3,7 +3,7 @@ title:          Per Aspera Adastra
 email:          youremailaddress@gmail.com
 description: 
 baseurl:        "/home" # the subpath of your site, e.g. /blog
-url:            # the base hostname & protocol for your site
+url:            "peradastra.com" # the base hostname & protocol for your site
 author:
 street_address:
 city:
