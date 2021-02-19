@@ -1,16 +1,12 @@
 # site settings
 title:          Per Aspera Adastra
-email:          youremailaddress@gmail.com
-description: 
-#baseurl:        "/home" # the subpath of your site, e.g. /blog
-#url:            "peradastra.com" # the base hostname & protocol for your site
-author:
-street_address:
-city:
-state:
-zip_code:
-country:
-phone:
+email:          adastra.aspera.per@gmail.com
+blurb: 
+baseurl:        "/home"
+url:            "peradastra.com"
+author: Per Aspera Adastra
+city: Houston
+state: Texas
 
 # homepage tiles
 tiles-source:   pages # accepts "posts" or "pages"
