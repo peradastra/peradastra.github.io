@@ -1,9 +1,7 @@
 # site settings
 title:          Per Aspera Adastra
 email:          adastra.aspera.per@gmail.com
-blurb: 
-baseurl:        "/home"
-url:            "peradastra.com"
+blurb:
 author: Per Aspera Adastra
 city: Houston
 state: Texas
